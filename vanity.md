@@ -10,7 +10,8 @@
 
 > "For what does it profit a man to gain the whole world and forfeit his soul?"  ([Mark 8:36](https://biblehub.com/mark/8-36.htm))
 
-> "For what will it profit a man if he gains the whole world and forfeits his soul? Or what shall a man give in return for his soul?"  ([Matthew 16:26](https://biblehub.com/matthew/16-26.htm))
+> "For what will it profit a man if he gains the whole world and forfeits his soul? \
+>   Or what shall a man give in return for his soul?"  ([Matthew 16:26](https://biblehub.com/matthew/16-26.htm))
 
 
 ## Context of the Verses
