@@ -14,4 +14,5 @@
 
 > ([Luke 12:20-21](https://biblehub.com/luke/12-20.htm))  "But God said to him, ‘Fool! This night your soul is required of you, and the things you have prepared, whose will they be?’ So is the one who lays up treasure for himself and is not rich toward God."
 
+> ([Hebrews 9:27](https://biblehub.com/hebrews/9-27.htm))   "And just as it is appointed for man to die once, and after that comes judgment,"
 ## Context of the Verses
