@@ -18,7 +18,8 @@
 
 > ([1 Peter 1:24](https://biblehub.com/1_peter/1-24.htm))   "because “All flesh is as grass, And all the glory of man as the flower of the grass. The grass withers, And its flower falls away," \
 > ([Psalm 103:15-16](https://biblehub.com/psalms/103-15.htm) [...](https://biblehub.com/psalms/103-16.htm))   "As for man, his days are like grass; As a flower of the field, so he flourishes. For the wind passes over it, and it is gone, And its place remembers it no more." \
-> ([Isaiah 40:6-7](https://biblehub.com/isaiah/40-6.htm) [...](https://biblehub.com/isaiah/40-7.htm))   "The voice said, “Cry out!” And he said, “What shall I cry?” “All flesh is grass, And all its loveliness is like the flower of the field. The grass withers, the flower fades, Because the breath of the LORD blows upon it; Surely the people are grass."
+> ([Isaiah 40:6-8](https://biblehub.com/isaiah/40-6.htm) [...](https://biblehub.com/isaiah/40-7.htm)  [...](https://biblehub.com/isaiah/40-8.htm))   "The voice said, “Cry out!” And he said, “What shall I cry?” “All flesh is grass, And all its loveliness is like the flower of the field. The grass withers, the flower fades, Because the breath of the LORD blows upon it; Surely the people are grass. The grass withers, the flower fades,
+But the word of our God stands forever.”"
 
 > ([James 1:10](https://biblehub.com/james/1-10.htm))   "but the rich in his humiliation, because as a flower of the field he will pass away."
 
