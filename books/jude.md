@@ -5,7 +5,7 @@
 The book is actually a letter written to christians. 
 Those christian a likely to be from ... (TODO: search for it)
 
-### Book name origin
+### Book name
 The book is named after the author
 
 ### Author
