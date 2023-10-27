@@ -1,0 +1,51 @@
+---
+section_title_h1: Letter Heading
+content: 
+- h2:
+  title: Author's Presentation
+  content:
+  - h3:
+    title: Author
+    questions_answers:
+    - question: "Who is the author?"
+      references:
+      - book: romans
+        chapter: 1
+        verses: [1]
+      answer_hint: "Paul"
+    - question: "How does he present himself?"
+      references:
+      - book: romans
+        chapter: 1
+        verses: [1]
+      answer_hint: "a bondsrvant of Jesus Christ, Apostle, separated for the Gospel"
+  - h3:
+    title: Gospel Summary
+    questions_answers:
+    - question: "Since when, how and where was the gospel of God known?"
+      references:
+      - book: romans
+        chapter: 1
+        verses: [2]
+      answer_hint: "Before, through His prophets, in the Holy Scriptures (*Old testament*)"
+    - question: "Whose was the gospel about?"
+      references:
+      - book: romans
+        chapter: 1
+        verses: [3]
+      answer_hint: "God's son Jesus Christ"
+    - question: "What is the origin and nature of whom the gospel is about?"
+      references:
+      - book: romans
+        chapter: 1
+        verses: [4]
+      answer_hint: > 
+        Flesh: Born of the seed of David. 
+        Spirit: declared to be the son of God with power according to the spirit of holiness, 
+        by the resurrection from the dead
+  - h3:
+    title: Author's link with the one whose the gospel is about
+
+      
+
+    
