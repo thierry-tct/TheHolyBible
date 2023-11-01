@@ -45,6 +45,37 @@ content:
         by the resurrection from the dead
   - h3:
     title: Author's link with the one whose the gospel is about
+    questions_answers:
+    - question: "Why did the author mention the person whose the Gospel is about?"
+      references:
+      - book: romans
+        chapter: 1
+        verses: [5]
+      answer_hint: "To state how he he received faith and apostleship"
+    - question: "How does the reason Why the author mention the person whose the Gospel is about relate to the recipients?"
+      references:
+      - book: romans
+        chapter: 1
+        verses: [6]
+      answer_hint: "They are also called, and among the nations"
+- h2:
+  title: Letter's Recipients and greetings
+  content:
+  - h3:
+    title: Letter's Recipients and greetings
+    questions_answers:
+    - question: "Who are the recipients?"
+      references:
+      - book: romans
+        chapter: 1
+        verses: [7]
+      answer_hint: "All beloved of God, called to be saints, and who are in Rome"
+    - question: "How does the author greet the recipients?"
+      references:
+      - book: romans
+        chapter: 1
+        verses: [7]
+      answer_hint: "He says grace and peace to them in the Lord Jesus Christ"
 
       
 

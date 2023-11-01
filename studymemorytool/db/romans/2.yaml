@@ -1,0 +1,15 @@
+---
+section_title_h1: Gospel of grace
+content: 
+- h2:
+  title: Letter introduction
+  content:
+  - h3:
+    title: Congratulations of the recipients
+    questions_answers:
+    - question: "How does the author congratulate the recipients?"
+      references:
+      - book: romans
+        chapter: 1,
+        verses: [8]
+      answer_hint: "He thanks God that their faith is spoken of in the whole world"
