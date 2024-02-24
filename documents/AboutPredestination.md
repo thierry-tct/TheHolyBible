@@ -8,3 +8,9 @@
 
 2. Bible verses against predestination?
 - https://learnscripture.net/verse-set/verses-that-disprove-the-fable-predestination/
+
+---
+> **1 Thessalonians 1:2-5** \
+> **Ephesians 1:3-14** \
+> **Romans 8:28-39** \
+> **Romans 9:1-11:36**
