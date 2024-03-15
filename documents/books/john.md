@@ -108,3 +108,19 @@ The name `John` means `Yahweh is Gracious` or `Yahweh is Merciful` (see [wikiped
 
 *Question*: What do verses 17-18 mean?
 *Answer*: Jesus loved and is God.
+
+### **Chapter 13**: This chapter is one of the chapter that present Jesus last moments with his disciples before his crucifixion.
+
+#### Outline:
+- Verses 1-17: Jesus teaches his disciples to serve one another by washing their feet.
+
+- Verses 18-30: Jesus identifies his betrayer Judas.
+
+- Verses 31-35: Jesus gives a new commandment.
+The new commandment that Jesus gives is to his disciples is to love one another as he loved his disciples.
+The passage reads: *"A new commandment I give to you, that you love one another; as I have loved you, that you also love one another. 35 By this all will know that you are My disciples, if you have love for one another."* (John 13:34-35). Note that the commands so far are to love God with all our heart, soul, mind, strength (mark 12:30) and to love our neighbor as ourselves (Mark 12:31, Romans 13:9, Galatians 5:14, James 2:8, Romans 13:8). 
+Notice that the love for our neighbors is summarized to the love we have for ourselves, that is it depends on each person perception of what they expect. This goes along with the golden rule (Matthew 7:12). 
+However, here Jesus adds that we should look at the way he loves us to learn how to love our fellow believer. This regardless of how we love ourselves. Instead, this will make us love ourselves even better.
+This enhances the old command to love our neighbor as ourselves (Matthew 7:12b) by showing how we can do that not in the mindset of expecting another to return it to us, but just out of pure love.
+
+- Verses 36-38: Jesus predicts Peter's denial.
