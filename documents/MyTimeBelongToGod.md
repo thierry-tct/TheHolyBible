@@ -2,7 +2,7 @@
 
 [Colossians 3:23](https://www.biblegateway.com/passage/?search=Colossians+3%3A23-24&version=NKJV), [1 Corinthians 10:31](https://www.biblegateway.com/passage/?search=1%20Corinthians%2010%3A31&version=NKJV) and [Philippians 2:14](https://www.biblegateway.com/passage/?search=Philippians+2%3A14&version=NLT).
 
-### What is w0isted time according to God view
+### What is waisted time according to God view
 
 Let's say you live at a very remote place, where you spend long commuting time to work or church. Or, you need to make a connection during your commute and missed the connection, and have to stay at the connecting location for an extra hour to wait for the next connection.
 

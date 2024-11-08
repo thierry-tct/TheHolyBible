@@ -31,3 +31,15 @@ He takes the analogy of teh israelites perhapts to show something: The similarit
 3. The promised land is like the new heaven and new earth in the future.
 
 The israelite left Egypt to the desert (verse 16), similarly to the Christians on earth, us, the christians to whom the letter of Hebrews was written. However, in the desert, the became hard in their hearts and perished for that without entering the promised land (verse 17-19). The same way, if after becoming followers of jesus, we hearden our hearts, we will likewise perish and not enter God's rest.
+
+## Hebrews 6
+The elementary principles of Jesus are things in Judaistic beliefs about the messiah, things that are comon to jJudaism and Christianity. However, this is the basis of Christianity, which is built on Jesus. But is someone remain on it, they are denying jesus, because He was revealed to us for more (Look at Hebrews 5:10-11, where the author talks about Melchizedek, and expland more in Hebrews 7. It shows that there is more about Jesus than what judaism alone has.)
+
+by the way, judaism, rooted in old testament mention eternal life and judgement: 
+- Psalms 9
+- Daniel 12:2
+- Psalms 9:7 (contrast with Revelation 20 great white throne)
+- Psalms 50:4 
+- Ecclesiates 3:17
+
+Also the word baptisms here is greek baptismos which is different from baptizo used in Christian baptism. The one used is more washings, which is more jewish.
